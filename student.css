@@ -1,0 +1,34 @@
+body{
+ 
+    background-image: url(imgs/SP.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px 25px;
+}
+.sub-menu:after{
+    content: "";
+    display: table;
+}
+
+.nav-menu{
+
+    position: relative;
+    display: table;
+}
+.nav-menuli{
+    display: table;
+    list-style-type: none;
+}
+.sub-menu{
+    position: unset;
+    display: table;
+    background: #ffe6e600
+    b
+}
+.nav-menu>ul>li:after{
+    content: "\25BC";
+    font-size: 3em;
+    display: table;
+    overflow: hidden;
+}

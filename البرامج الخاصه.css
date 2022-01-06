@@ -1,0 +1,55 @@
+.main {
+    height: 2000px;
+    height: 400px;
+    background-image: url(imgs/SP.gif);
+    /* background-color: mistyrose; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 33px;
+    border-radius: 25px 50px;
+    padding: 20px;
+    
+}
+.title {
+      font-family: 'Lemonada-Bold';
+    background-color: #829fe459;
+    height: 50px;
+    font-size: xx-large;
+    border-radius: 50px 25px;
+   
+}
+h1{
+    font-size: 22px;
+    color: #fff;
+    font-family: fangsong;
+    font-weight: bolder;
+    text-transform: capitalize;
+font-size: xx-large;
+    line-height: 1.5;
+    padding-top: 5px;
+}
+
+
+
+element.style {
+ 
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+img{
+    border: none;
+}
+
+a {
+    color: #f1e8eb;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    box-sizing: border-box;
+    font: inherit;
+    vertical-align: baseline;
+    outline: 0;
+    box-sizing: border-box;
+}

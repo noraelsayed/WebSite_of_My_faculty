@@ -1,0 +1,32 @@
+.title{
+    background-image: url(imgs/AL.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+     font-size: 22px;
+    border-radius: 50px 25px;
+   
+    
+}
+h1 {
+    color: #123804;
+}
+.main {
+    height: 2500px;
+    display: block;
+    margin: 8px;
+    background-image: url(imgs/ai1.gif);
+    background-size: cover;
+    font-size: 1px;
+    background-position: center;
+    border-radius: 25px 50px;
+    padding: 20px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 26px;
+}
